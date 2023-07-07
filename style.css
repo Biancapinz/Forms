@@ -8,3 +8,39 @@ form{
    margin-left: 550px;
 }
 
+div{
+width: 500px;
+height: 400px;
+background-color: rgb(180, 145, 214);
+margin-left: 400px;
+display: block;
+margin-top: 100px;
+border-radius: 10px;
+}
+
+h3{
+    text-align: center;
+}
+
+
+div hr{
+    width: 400px;
+}
+
+input{
+    width: 300px;
+    height: 30px;
+    margin-left: 20%;
+    background-color: rgb(248, 248, 248);
+    border-radius: 20px;
+}
+
+#senha-esqueceu{
+    list-style-type: none;
+    margin-left: 37%;
+    margin-top: 20px;
+    
+}
+
+
+
