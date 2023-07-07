@@ -1,16 +1,7 @@
-form{
-    text-align: center;
-    display: block;
-   justify-content: center;
-   background-image: url(https://marketplace.canva.com/EAD2962NKnQ/2/0/1600w/canva-rainbow-gradient-pink-and-purple-virtual-background-_Tcjok-d9b4.jpg);
-   border-radius: 10%;
-   width: 30%;
-   margin-left: 550px;
-}
 
 div{
 width: 500px;
-height: 400px;
+height: 350px;
 background-color: rgb(180, 145, 214);
 margin-left: 400px;
 display: block;
@@ -40,6 +31,18 @@ input{
     margin-left: 37%;
     margin-top: 20px;
     
+}
+
+#label{
+    margin-left: 100px;  
+}
+
+#login-textos{
+background-color: transparent;
+border-top-color:transparent;
+border-right: transparent;
+border-left: transparent;
+border-radius: 0;
 }
 
 
