@@ -3,7 +3,7 @@ div{
     text-align: center;
     display: block;
    justify-content: center;
-   background-image: url(https://marketplace.canva.com/EAD2962NKnQ/2/0/1600w/canva-rainbow-gradient-pink-and-purple-virtual-background-_Tcjok-d9b4.jpg);
+    background-color: rgb(180, 145, 214);
    border-radius: 10%;
    width: 500PX;
    margin-left: 25%;
